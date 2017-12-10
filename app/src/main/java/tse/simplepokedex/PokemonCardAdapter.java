@@ -1,7 +1,7 @@
 package tse.simplepokedex;
 
 /**
- * Created by Administrator on 2017/12/9.
+ * Created by TGHead on 2017/12/9.
  */
 import android.content.Context;
 import android.content.Intent;
@@ -84,21 +84,21 @@ public class PokemonCardAdapter extends  RecyclerView.Adapter<PokemonCardAdapter
         Drawable res = context.getResources().getDrawable(imageResource);
         pokemonHolder.sprite.setImageDrawable(res);
 
-//        pokemonHolder.pokemonCard.setOnClickListener(new View.OnClickListener() {
-//            @Override
-//            public void onClick(View v) {
-//                Context context = v.getContext();
-//                //Toast.makeText(context,.getName(),Toast.LENGTH_SHORT).show();
-//                //handle click
-//                PokemonCard clicked = pokemonCardList.get(pokemonHolder.getAdapterPosition());
-//                Intent i = new Intent();
-//                Bundle b = new Bundle();
-//                b.putSerializable("pokemon", clicked);
-//                i.putExtras(b);
-//                i.setClass(context, PokemonActivity.class);
-//                context.startActivity(i);
-//            }
-//        });
+        pokemonHolder.pokemonCard.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Context context = v.getContext();
+                //Toast.makeText(context,.getName(),Toast.LENGTH_SHORT).show();
+                //handle click
+                PokemonCard clicked = pokemonCardList.get(pokemonHolder.getAdapterPosition());
+                Intent i = new Intent();
+                Bundle b = new Bundle();
+                b.putSerializable("pokemon", clicked);
+                i.putExtras(b);
+                i.setClass(context, PokemonActivity.class);
+                context.startActivity(i);
+            }
+        });
         /*pokemonHolder.itemView.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {

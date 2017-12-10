@@ -1,7 +1,7 @@
 package tse.simplepokedex;
 
 /**
- * Created by Administrator on 2017/12/9.
+ * Created by TGHead on 2017/12/9.
  */
 public enum Type {
 

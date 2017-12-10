@@ -5,7 +5,7 @@ import java.util.List;
 import java.util.Map;
 
 /**
- * Created by Administrator on 2017/12/9.
+ * Created by TGHead on 2017/12/9.
  */
 public class PokemonCard implements Serializable {
     private int id;

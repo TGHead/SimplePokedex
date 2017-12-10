@@ -5,7 +5,7 @@ import android.support.v7.widget.CardView;
 import android.util.AttributeSet;
 
 /**
- * Created by Administrator on 2017/12/10.
+ * Created by TGHead on 2017/12/10.
  */
 public class SquareCardView extends CardView {
 
