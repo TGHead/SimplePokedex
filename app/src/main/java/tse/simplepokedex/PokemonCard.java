@@ -16,6 +16,8 @@ public class PokemonCard implements Serializable {
     private int specialDefense;
     private int speed;
     private String name;
+    private String height;
+    private String weight;
     private String description;
     private Type[] types;
     private String sprite;
@@ -23,7 +25,7 @@ public class PokemonCard implements Serializable {
     private Map<Integer, String> evolutions;
 
 //    public PokemonCard(int id, int hp, int attack, int defense, int specialAttack, int specialDefense, int speed, String name, String description, Type[] types, String sprite, List<Move> moves, Map<Integer, String> evolutions) {
-    public PokemonCard(int id, int hp, int attack, int defense, int specialAttack, int specialDefense, int speed, String name, String description, Type[] types, String sprite, Map<Integer, String> evolutions) {
+    public PokemonCard(int id, int hp, int attack, int defense, int specialAttack, int specialDefense, int speed, String name, String height, String weight, String description, Type[] types, String sprite, Map<Integer, String> evolutions) {
 
         this.id = id;
         this.hp = hp;
@@ -33,10 +35,11 @@ public class PokemonCard implements Serializable {
         this.specialDefense = specialDefense;
         this.speed = speed;
         this.name = name;
+        this.height = height;
+        this.weight = weight;
         this.description = description;
         this.types = types;
         this.sprite = sprite;
-//        this.moves = moves;
         this.evolutions = evolutions;
     }
 
@@ -105,6 +108,14 @@ public class PokemonCard implements Serializable {
         this.name = name;
     }
 
+    public String getHeight() { return height; }
+
+    public void setHeight(String height) {this.height = height;}
+
+    public String getWeight() { return weight; }
+
+    public void setWeight(String weight) {this.weight = weight;}
+
     public String getDescription() {
         return description;
     }
@@ -128,14 +139,6 @@ public class PokemonCard implements Serializable {
     public void setSprite(String sprite) {
         this.sprite = sprite;
     }
-
-//    public List<Move> getMoves() {
-//        return moves;
-//    }
-
-//    public void setMoves(List<Move> moves) {
-//        this.moves = moves;
-//    }
 
     public Map<Integer, String> getEvolutions() {
         return evolutions;

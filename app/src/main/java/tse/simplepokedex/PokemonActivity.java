@@ -78,6 +78,11 @@ public class PokemonActivity extends AppCompatActivity {
 
         TextView textName = (TextView) findViewById(R.id.pokemon_name);
         textName.setText(pokemonCard.getName());
+        textName = (TextView) findViewById(R.id.pokemon_height);
+        textName.setText(pokemonCard.getHeight());
+        textName = (TextView) findViewById(R.id.pokemon_weight);
+        textName.setText(pokemonCard.getWeight() + " lbs");
+
 
         TextView textType1 = (TextView) findViewById(R.id.pokemon_type1);
         textType1.setBackgroundResource(pokemonCard.getTypes()[0].color());

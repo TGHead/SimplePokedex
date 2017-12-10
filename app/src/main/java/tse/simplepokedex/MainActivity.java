@@ -70,6 +70,8 @@ public class MainActivity extends AppCompatActivity {
                     int specialDefense = pokemonCard.getInt("special_defense");
                     int speed = pokemonCard.getInt("speed");
                     String name = pokemonCard.getString("name");
+                    String height = pokemonCard.getString("height");
+                    String weight = pokemonCard.getString("weight");
                     String description = pokemonCard.getString("description");
                     String sprite = "@drawable/p"+id;
 
@@ -107,7 +109,7 @@ public class MainActivity extends AppCompatActivity {
                     }
 
 //                    pokemonCardList.add(new PokemonCard(id, hp, attack, defense, specialAttack, specialDefense, speed, name, description, types, sprite, moves, evolutions));
-                    pokemonCardList.add(new PokemonCard(id, hp, attack, defense, specialAttack, specialDefense, speed, name, description, types, sprite, evolutions));
+                    pokemonCardList.add(new PokemonCard(id, hp, attack, defense, specialAttack, specialDefense, speed, name, height, weight, description, types, sprite, evolutions));
                 }
             }
             catch (JSONException e) {

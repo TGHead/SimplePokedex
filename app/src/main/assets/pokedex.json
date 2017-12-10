@@ -2,6 +2,8 @@
   {
     "id": 1,
     "name": "Bulbasaur",
+    "height": "2' 04\"",
+    "weight": 15.2,
     "types": [
       "poison",
       "grass"
@@ -31,6 +33,8 @@
   {
     "id": 2,
     "name": "Ivysaur",
+    "height": "3' 03\"",
+    "weight": 28.7,
     "types": [
       "poison",
       "grass"
@@ -60,6 +64,8 @@
   {
     "id": 3,
     "name": "Venusaur",
+    "height": "6' 07\"",
+    "weight": 220.5,
     "types": [
       "poison",
       "grass"
@@ -89,6 +95,8 @@
   {
     "id": 4,
     "name": "Charmander",
+    "height": "2' 00\"",
+    "weight": 18.7,
     "types": [
       "fire"
     ],
@@ -117,6 +125,8 @@
   {
     "id": 5,
     "name": "Charmeleon",
+    "height": "3' 07\"",
+    "weight": 41.9,
     "types": [
       "fire"
     ],
@@ -145,6 +155,8 @@
   {
     "id": 6,
     "name": "Charizard",
+    "height": "5' 07\"",
+    "weight": 199.5,
     "types": [
       "flying",
       "fire"
@@ -174,6 +186,8 @@
   {
     "id": 7,
     "name": "Squirtle",
+    "height": "1' 08\"",
+    "weight": 19.8,
     "types": [
       "water"
     ],
@@ -202,6 +216,8 @@
   {
     "id": 8,
     "name": "Wartortle",
+    "height": "3' 03\"",
+    "weight": 49.6,
     "types": [
       "water"
     ],
@@ -230,6 +246,8 @@
   {
     "id": 9,
     "name": "Blastoise",
+    "height": "5' 03\"",
+    "weight": 188.5,
     "types": [
       "water"
     ],
@@ -258,6 +276,8 @@
   {
     "id": 10,
     "name": "Caterpie",
+    "height": "1' 00\"",
+    "weight": 6.4,
     "types": [
       "bug"
     ],
@@ -286,6 +306,8 @@
   {
     "id": 11,
     "name": "Metapod",
+    "height": "2' 04\"",
+    "weight": 21.8,
     "types": [
       "bug"
     ],
@@ -314,6 +336,8 @@
   {
     "id": 12,
     "name": "Butterfree",
+    "height": "3' 07\"",
+    "weight": 70.5,
     "types": [
       "flying",
       "bug"
@@ -343,6 +367,8 @@
   {
     "id": 13,
     "name": "Weedle",
+    "height": "1' 00\"",
+    "weight": 7.1,
     "types": [
       "poison",
       "bug"
@@ -372,6 +398,8 @@
   {
     "id": 14,
     "name": "Kakuna",
+    "height": "2' 00\"",
+    "weight": 22,
     "types": [
       "poison",
       "bug"
@@ -401,6 +429,8 @@
   {
     "id": 15,
     "name": "Beedrill",
+    "height": "3' 03\"",
+    "weight": 65,
     "types": [
       "poison",
       "bug"
@@ -430,6 +460,8 @@
   {
     "id": 16,
     "name": "Pidgey",
+    "height": "1' 00\"",
+    "weight": 4,
     "types": [
       "flying",
       "normal"
@@ -459,6 +491,8 @@
   {
     "id": 17,
     "name": "Pidgeotto",
+    "height": "3' 07\"",
+    "weight": 66.1,
     "types": [
       "flying",
       "normal"
@@ -488,6 +522,8 @@
   {
     "id": 18,
     "name": "Pidgeot",
+    "height": "4' 11\"",
+    "weight": 87.1,
     "types": [
       "flying",
       "normal"
@@ -517,6 +553,8 @@
   {
     "id": 19,
     "name": "Rattata",
+    "height": "1' 00\"",
+    "weight": 7.7,
     "types": [
       "normal"
     ],
@@ -541,6 +579,8 @@
   {
     "id": 20,
     "name": "Raticate",
+    "height": "2' 04\"",
+    "weight": 40.8,
     "types": [
       "normal"
     ],
@@ -565,6 +605,8 @@
   {
     "id": 21,
     "name": "Spearow",
+    "height": "1' 00\"",
+    "weight": 4.4,
     "types": [
       "flying",
       "normal"
@@ -590,6 +632,8 @@
   {
     "id": 22,
     "name": "Fearow",
+    "height": "3' 11\"",
+    "weight": 83.8,
     "types": [
       "flying",
       "normal"
@@ -615,6 +659,8 @@
   {
     "id": 23,
     "name": "Ekans",
+    "height": "6' 07\"",
+    "weight": 15.2,
     "types": [
       "poison"
     ],
@@ -639,6 +685,8 @@
   {
     "id": 24,
     "name": "Arbok",
+    "height": "11' 06\"",
+    "weight": 143.3,
     "types": [
       "poison"
     ],
@@ -663,6 +711,8 @@
   {
     "id": 25,
     "name": "Pikachu",
+    "height": "1' 04\"",
+    "weight": 13.2,
     "types": [
       "electric"
     ],
@@ -691,6 +741,8 @@
   {
     "id": 26,
     "name": "Raichu",
+    "height": "2' 07\"",
+    "weight": 66.1,
     "types": [
       "electric"
     ],
@@ -719,6 +771,8 @@
   {
     "id": 27,
     "name": "Sandshrew",
+    "height": "2' 00\"",
+    "weight": 26.5,
     "types": [
       "ground"
     ],
@@ -743,6 +797,8 @@
   {
     "id": 28,
     "name": "Sandslash",
+    "height": "3' 03\"",
+    "weight": 65,
     "types": [
       "ground"
     ],
@@ -767,6 +823,8 @@
   {
     "id": 29,
     "name": "Nidoran-f",
+    "height": "1' 04\"",
+    "weight": 15.4,
     "types": [
       "poison"
     ],
@@ -795,6 +853,8 @@
   {
     "id": 30,
     "name": "Nidorina",
+    "height": "2' 07\"",
+    "weight": 44.1,
     "types": [
       "poison"
     ],
@@ -823,6 +883,8 @@
   {
     "id": 31,
     "name": "Nidoqueen",
+    "height": "4' 03\"",
+    "weight": 132.3,
     "types": [
       "ground",
       "poison"
@@ -852,6 +914,8 @@
   {
     "id": 32,
     "name": "Nidoran-m",
+    "height": "1' 08\"",
+    "weight": 19.8,
     "types": [
       "poison"
     ],
@@ -880,6 +944,8 @@
   {
     "id": 33,
     "name": "Nidorino",
+    "height": "2' 11\"",
+    "weight": 43,
     "types": [
       "poison"
     ],
@@ -908,6 +974,8 @@
   {
     "id": 34,
     "name": "Nidoking",
+    "height": "4' 07\"",
+    "weight": 136.7,
     "types": [
       "ground",
       "poison"
@@ -937,6 +1005,8 @@
   {
     "id": 35,
     "name": "Clefairy",
+    "height": "2' 00\"",
+    "weight": 16.5,
     "types": [
       "fairy"
     ],
@@ -965,6 +1035,8 @@
   {
     "id": 36,
     "name": "Clefable",
+    "height": "4' 03\"",
+    "weight": 88.2,
     "types": [
       "fairy"
     ],
@@ -993,6 +1065,8 @@
   {
     "id": 37,
     "name": "Vulpix",
+    "height": "2' 00\"",
+    "weight": 21.8,
     "types": [
       "fire"
     ],
@@ -1017,6 +1091,8 @@
   {
     "id": 38,
     "name": "Ninetales",
+    "height": "3' 07\"",
+    "weight": 43.9,
     "types": [
       "fire"
     ],
@@ -1041,6 +1117,8 @@
   {
     "id": 39,
     "name": "Jigglypuff",
+    "height": "1' 08\"",
+    "weight": 12.1,
     "types": [
       "fairy",
       "normal"
@@ -1070,6 +1148,8 @@
   {
     "id": 40,
     "name": "Wigglytuff",
+    "height": "3' 03\"",
+    "weight": 26.5,
     "types": [
       "fairy",
       "normal"
@@ -1099,6 +1179,8 @@
   {
     "id": 41,
     "name": "Zubat",
+    "height": "2' 07\"",
+    "weight": 16.5,
     "types": [
       "flying",
       "poison"
@@ -1128,6 +1210,8 @@
   {
     "id": 42,
     "name": "Golbat",
+    "height": "5' 03\"",
+    "weight": 121.3,
     "types": [
       "flying",
       "poison"
@@ -1157,6 +1241,8 @@
   {
     "id": 43,
     "name": "Oddish",
+    "height": "1' 08\"",
+    "weight": 11.9,
     "types": [
       "poison",
       "grass"
@@ -1186,6 +1272,8 @@
   {
     "id": 44,
     "name": "Gloom",
+    "height": "2' 07\"",
+    "weight": 19,
     "types": [
       "poison",
       "grass"
@@ -1215,6 +1303,8 @@
   {
     "id": 45,
     "name": "Vileplume",
+    "height": "3' 11\"",
+    "weight": 41,
     "types": [
       "poison",
       "grass"
@@ -1244,6 +1334,8 @@
   {
     "id": 46,
     "name": "Paras",
+    "height": "1' 00\"",
+    "weight": 11.9,
     "types": [
       "grass",
       "bug"
@@ -1269,6 +1361,8 @@
   {
     "id": 47,
     "name": "Parasect",
+    "height": "3' 03\"",
+    "weight": 65,
     "types": [
       "grass",
       "bug"
@@ -1294,6 +1388,8 @@
   {
     "id": 48,
     "name": "Venonat",
+    "height": "3' 03\"",
+    "weight": 66.1,
     "types": [
       "poison",
       "bug"
@@ -1319,6 +1415,8 @@
   {
     "id": 49,
     "name": "Venomoth",
+    "height": "4' 11\"",
+    "weight": 27.6,
     "types": [
       "poison",
       "bug"
@@ -1344,6 +1442,8 @@
   {
     "id": 50,
     "name": "Diglett",
+    "height": "0' 08\"",
+    "weight": 1.8,
     "types": [
       "ground"
     ],
@@ -1368,6 +1468,8 @@
   {
     "id": 51,
     "name": "Dugtrio",
+    "height": "2' 04\"",
+    "weight": 73.4,
     "types": [
       "ground"
     ],
@@ -1392,6 +1494,8 @@
   {
     "id": 52,
     "name": "Meowth",
+    "height": "1' 04\"",
+    "weight": 9.3,
     "types": [
       "normal"
     ],
@@ -1416,6 +1520,8 @@
   {
     "id": 53,
     "name": "Persian",
+    "height": "3' 03\"",
+    "weight": 70.5,
     "types": [
       "normal"
     ],
@@ -1440,6 +1546,8 @@
   {
     "id": 54,
     "name": "Psyduck",
+    "height": "2' 07\"",
+    "weight": 43.2,
     "types": [
       "water"
     ],
@@ -1464,6 +1572,8 @@
   {
     "id": 55,
     "name": "Golduck",
+    "height": "5' 07\"",
+    "weight": 168.9,
     "types": [
       "water"
     ],
@@ -1488,6 +1598,8 @@
   {
     "id": 56,
     "name": "Mankey",
+    "height": "1' 08\"",
+    "weight": 61.7,
     "types": [
       "fighting"
     ],
@@ -1512,6 +1624,8 @@
   {
     "id": 57,
     "name": "Primeape",
+    "height": "3' 03\"",
+    "weight": 70.5,
     "types": [
       "fighting"
     ],
@@ -1536,6 +1650,8 @@
   {
     "id": 58,
     "name": "Growlithe",
+    "height": "2' 04\"",
+    "weight": 41.9,
     "types": [
       "fire"
     ],
@@ -1560,6 +1676,8 @@
   {
     "id": 59,
     "name": "Arcanine",
+    "height": "6' 03\"",
+    "weight": 341.7,
     "types": [
       "fire"
     ],
@@ -1584,6 +1702,8 @@
   {
     "id": 60,
     "name": "Poliwag",
+    "height": "2' 00\"",
+    "weight": 27.3,
     "types": [
       "water"
     ],
@@ -1612,6 +1732,8 @@
   {
     "id": 61,
     "name": "Poliwhirl",
+    "height": "3' 03\"",
+    "weight": 44.1,
     "types": [
       "water"
     ],
@@ -1640,6 +1762,8 @@
   {
     "id": 62,
     "name": "Poliwrath",
+    "height": "4' 03\"",
+    "weight": 119,
     "types": [
       "fighting",
       "water"
@@ -1669,6 +1793,8 @@
   {
     "id": 63,
     "name": "Abra",
+    "height": "2' 11\"",
+    "weight": 43,
     "types": [
       "psychic"
     ],
@@ -1697,6 +1823,8 @@
   {
     "id": 64,
     "name": "Kadabra",
+    "height": "4' 03\"",
+    "weight": 124.6,
     "types": [
       "psychic"
     ],
@@ -1725,6 +1853,8 @@
   {
     "id": 65,
     "name": "Alakazam",
+    "height": "4' 11\"",
+    "weight": 105.8,
     "types": [
       "psychic"
     ],
@@ -1753,6 +1883,8 @@
   {
     "id": 66,
     "name": "Machop",
+    "height": "2' 07\"",
+    "weight": 43,
     "types": [
       "fighting"
     ],
@@ -1781,6 +1913,8 @@
   {
     "id": 67,
     "name": "Machoke",
+    "height": "4' 11\"",
+    "weight": 155.4,
     "types": [
       "fighting"
     ],
@@ -1809,6 +1943,8 @@
   {
     "id": 68,
     "name": "Machamp",
+    "height": "5' 03\"",
+    "weight": 286.6,
     "types": [
       "fighting"
     ],
@@ -1837,6 +1973,8 @@
   {
     "id": 69,
     "name": "Bellsprout",
+    "height": "2' 04\"",
+    "weight": 8.8,
     "types": [
       "poison",
       "grass"
@@ -1866,6 +2004,8 @@
   {
     "id": 70,
     "name": "Weepinbell",
+    "height": "3' 03\"",
+    "weight": 14.1,
     "types": [
       "poison",
       "grass"
@@ -1895,6 +2035,8 @@
   {
     "id": 71,
     "name": "Victreebel",
+    "height": "5' 07\"",
+    "weight": 34.2,
     "types": [
       "poison",
       "grass"
@@ -1924,6 +2066,8 @@
   {
     "id": 72,
     "name": "Tentacool",
+    "height": "2' 11\"",
+    "weight": 100.3,
     "types": [
       "poison",
       "water"
@@ -1949,6 +2093,8 @@
   {
     "id": 73,
     "name": "Tentacruel",
+    "height": "5' 03\"",
+    "weight": 121.3,
     "types": [
       "poison",
       "water"
@@ -1974,6 +2120,8 @@
   {
     "id": 74,
     "name": "Geodude",
+    "height": "1' 04\"",
+    "weight": 44.1,
     "types": [
       "ground",
       "rock"
@@ -2003,6 +2151,8 @@
   {
     "id": 75,
     "name": "Graveler",
+    "height": "3' 03\"",
+    "weight": 231.5,
     "types": [
       "ground",
       "rock"
@@ -2032,6 +2182,8 @@
   {
     "id": 76,
     "name": "Golem",
+    "height": "4' 07\"",
+    "weight": 661.4,
     "types": [
       "ground",
       "rock"
@@ -2061,6 +2213,8 @@
   {
     "id": 77,
     "name": "Ponyta",
+    "height": "3' 03\"",
+    "weight": 66.1,
     "types": [
       "fire"
     ],
@@ -2085,6 +2239,8 @@
   {
     "id": 78,
     "name": "Rapidash",
+    "height": "5' 07\"",
+    "weight": 209.4,
     "types": [
       "fire"
     ],
@@ -2109,6 +2265,8 @@
   {
     "id": 79,
     "name": "Slowpoke",
+    "height": "3' 11\"",
+    "weight": 79.4,
     "types": [
       "psychic",
       "water"
@@ -2134,6 +2292,8 @@
   {
     "id": 80,
     "name": "Slowbro",
+    "height": "5' 03\"",
+    "weight": 173.1,
     "types": [
       "psychic",
       "water"
@@ -2159,6 +2319,8 @@
   {
     "id": 81,
     "name": "Magnemite",
+    "height": "1' 00\"",
+    "weight": 13.2,
     "types": [
       "steel",
       "electric"
@@ -2188,6 +2350,8 @@
   {
     "id": 82,
     "name": "Magneton",
+    "height": "3' 03\"",
+    "weight": 132.3,
     "types": [
       "steel",
       "electric"
@@ -2217,6 +2381,8 @@
   {
     "id": 83,
     "name": "Farfetchd",
+    "height": "2' 07\"",
+    "weight": 33.1,
     "types": [
       "flying",
       "normal"
@@ -2238,6 +2404,8 @@
   {
     "id": 84,
     "name": "Doduo",
+    "height": "4' 07\"",
+    "weight": 86.4,
     "types": [
       "flying",
       "normal"
@@ -2263,6 +2431,8 @@
   {
     "id": 85,
     "name": "Dodrio",
+    "height": "5' 11\"",
+    "weight": 187.8,
     "types": [
       "flying",
       "normal"
@@ -2288,6 +2458,8 @@
   {
     "id": 86,
     "name": "Seel",
+    "height": "3' 07\"",
+    "weight": 198.4,
     "types": [
       "water"
     ],
@@ -2312,6 +2484,8 @@
   {
     "id": 87,
     "name": "Dewgong",
+    "height": "5' 07\"",
+    "weight": 264.6,
     "types": [
       "ice",
       "water"
@@ -2337,6 +2511,8 @@
   {
     "id": 88,
     "name": "Grimer",
+    "height": "2' 11\"",
+    "weight": 66.1,
     "types": [
       "poison"
     ],
@@ -2361,6 +2537,8 @@
   {
     "id": 89,
     "name": "Muk",
+    "height": "3' 11\"",
+    "weight": 66.1,
     "types": [
       "poison"
     ],
@@ -2385,6 +2563,8 @@
   {
     "id": 90,
     "name": "Shellder",
+    "height": "1' 00\"",
+    "weight": 8.8,
     "types": [
       "water"
     ],
@@ -2409,6 +2589,8 @@
   {
     "id": 91,
     "name": "Cloyster",
+    "height": "4' 11\"",
+    "weight": 292.1,
     "types": [
       "ice",
       "water"
@@ -2434,6 +2616,8 @@
   {
     "id": 92,
     "name": "Gastly",
+    "height": "4' 03\"",
+    "weight": 0.2,
     "types": [
       "poison",
       "ghost"
@@ -2463,6 +2647,8 @@
   {
     "id": 93,
     "name": "Haunter",
+    "height": "5' 03\"",
+    "weight": 0.2,
     "types": [
       "poison",
       "ghost"
@@ -2492,6 +2678,8 @@
   {
     "id": 94,
     "name": "Gengar",
+    "height": "4' 11\"",
+    "weight": 89.3,
     "types": [
       "poison",
       "ghost"

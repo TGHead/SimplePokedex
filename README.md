@@ -17,4 +17,4 @@ Inspired by serveral Android projects on GitHub (like [faviouz/pokedex](https://
 
 ## UI
 
-`waiting for capture...`
+![UI_HOME](README/simplepoledex_home.PNG)

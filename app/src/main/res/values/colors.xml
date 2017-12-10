@@ -2,7 +2,7 @@
 <resources>
     <color name="colorPrimary">#309f37</color>
     <color name="colorPrimaryDark">#135418</color>
-    <color name="colorAccent">#D32F2F</color>
+    <color name="colorAccent">#2f81d3</color>
     <color name="colorPrimaryText">#212121</color>
     <color name="colorSecondaryText">#757575</color>
     <color name="colorIcons">#FFFFFF</color>
@@ -14,7 +14,7 @@
     <color name="colorPoisonType">#9575CD</color>
     <color name="colorGhostType">#3F51B5</color>
     <color name="colorDragonType">#7c4dff</color>
-    <color name="colorGrassType">#81C784</color>
+    <color name="colorGrassType">#81c784</color>
     <color name="colorBugType">#AED581</color>
     <color name="colorWaterType">#4FC3F7</color>
     <color name="colorIceType">#84FFFF</color>
