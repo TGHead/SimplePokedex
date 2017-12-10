@@ -17,4 +17,9 @@ Inspired by serveral Android projects on GitHub (like [faviouz/pokedex](https://
 
 ## UI
 
-![UI_HOME](README/simplepoledex_home.PNG)
+### Demo_Protrait
+![demo_portrait](README/demo_portrait.gif)
+
+
+### Demo_Protrait
+![demo_paysage](README/demo_paysage.gif)

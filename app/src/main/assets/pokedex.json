@@ -724,10 +724,10 @@
     "special_defense": 50,
     "speed": 90,
     "evolutions": [
-      {
-        "id": 172,
-        "name": "pichu"
-      },
+//      {
+//        "id": 172,
+//        "name": "pichu"
+//      },
       {
         "id": 25,
         "name": "pikachu"
@@ -754,10 +754,10 @@
     "special_defense": 80,
     "speed": 110,
     "evolutions": [
-      {
-        "id": 172,
-        "name": "pichu"
-      },
+//      {
+//        "id": 172,
+//        "name": "pichu"
+//      },
       {
         "id": 25,
         "name": "pikachu"
@@ -2341,10 +2341,10 @@
         "id": 82,
         "name": "magneton"
       },
-      {
-        "id": 462,
-        "name": "magnezone"
-      }
+//      {
+//        "id": 462,
+//        "name": "magnezone"
+//      }
     ]
   },
   {
@@ -2372,10 +2372,10 @@
         "id": 82,
         "name": "magneton"
       },
-      {
-        "id": 462,
-        "name": "magnezone"
-      }
+//      {
+//        "id": 462,
+//        "name": "magnezone"
+//      }
     ]
   },
   {

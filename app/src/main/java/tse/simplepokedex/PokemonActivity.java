@@ -116,7 +116,6 @@ public class PokemonActivity extends AppCompatActivity {
             int imageResource_evo = getResources().getIdentifier(uri_evo, null, getPackageName());
             Drawable res_evo = getResources().getDrawable(imageResource_evo);
             ivEvolution.setImageDrawable(res_evo);
-//            Picasso.with(getContext()).load(uriEvolution).fit().into(ivEvolution);
             i++;
         }
     }
