@@ -7,6 +7,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
 import android.view.View;
 import android.widget.ImageView;
+import android.widget.LinearLayout;
 import android.widget.ProgressBar;
 import android.widget.TextView;
 
@@ -25,10 +26,12 @@ public class PokemonActivity extends AppCompatActivity {
         setContentView(R.layout.activity_pokemon);
 
         Bundle bundle = getIntent().getExtras();
+//        getSupportActionBar().setDisplayHomeAsUpEnabled(false);
+//        getSupportActionBar().setDisplayShowHomeEnabled(true);
         if (bundle != null) {
             pokemonCard = (PokemonCard) bundle.getSerializable("pokemon");
             getSupportActionBar().setTitle(pokemonCard.getName());
-            Log.i("HELP","got stuff");
+//            Log.i("HELP","got stuff");
         }
 
         int hp = pokemonCard.getHp();
@@ -98,13 +101,17 @@ public class PokemonActivity extends AppCompatActivity {
         TextView textDescription = (TextView) findViewById(R.id.pokemon_description);
         textDescription.setText(pokemonCard.getDescription());
         int[][] ids = new int[][]{
-                { R.id.pokemon_evolution1_name, R.id.pokemon_evolution1 },
-                { R.id.pokemon_evolution2_name, R.id.pokemon_evolution2 },
-                { R.id.pokemon_evolution3_name, R.id.pokemon_evolution3 }
+                { R.id.pokemon_evolution1_name, R.id.pokemon_evolution1_img, R.id.pokemon_evolution1 },
+                { R.id.pokemon_evolution2_name, R.id.pokemon_evolution2_img, R.id.pokemon_evolution2 },
+                { R.id.pokemon_evolution3_name, R.id.pokemon_evolution3_img, R.id.pokemon_evolution3 },
+                { R.id.pokemon_evolution4_name, R.id.pokemon_evolution4_img, R.id.pokemon_evolution4 }
         };
 
         Map<Integer, String> evolutions = pokemonCard.getEvolutions();
 
+//        LinearLayout pokemon_layout = (LinearLayout) findViewById(R.id.pokemon_evolution_layout);
+//        pokemon_layout.setWeightSum(evolutions.size());
+//        System.out.println(evolutions.size());
         int i = 0;
         for (Integer key : evolutions.keySet()) {
             TextView textEvolution = (TextView) findViewById(ids[i][0]);
@@ -112,6 +119,16 @@ public class PokemonActivity extends AppCompatActivity {
             textEvolution.setText(evolutions.get(key));
             ImageView ivEvolution = (ImageView) findViewById(ids[i][1]);
             ivEvolution.setVisibility(View.VISIBLE);
+//            LinearLayout layout = (LinearLayout) findViewById(ids[i][2]);
+//            layout.setWeightSum(evolutions.size());
+//            LinearLayout.LayoutParams param = new LinearLayout.LayoutParams(
+//                    LinearLayout.LayoutParams.WRAP_CONTENT,
+//                    LinearLayout.LayoutParams.WRAP_CONTENT,
+//                    1.0f
+//            );
+//            layout.setLayoutParams(param);
+//            layout.setVisibility(View.VISIBLE);
+
             String uri_evo = "@drawable/p" + key;
             int imageResource_evo = getResources().getIdentifier(uri_evo, null, getPackageName());
             Drawable res_evo = getResources().getDrawable(imageResource_evo);

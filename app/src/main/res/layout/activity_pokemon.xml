@@ -401,74 +401,108 @@
                         style="@style/TextAppearance.AppCompat.Light.SearchResult.Title"/>
 
                 <LinearLayout
-                        android:layout_width="wrap_content"
+                        android:id="@+id/pokemon_evolution_layout"
+                        android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:orientation="horizontal">
 
                     <LinearLayout
-                            android:layout_width="match_parent"
+                            android:id="@+id/pokemon_evolution1"
+                            android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
-                            android:layout_weight="1"
                             android:orientation="vertical"
-                            android:layout_marginEnd="20dp">
+                            android:gravity="center"
+                            android:layout_weight="1">
 
                         <ImageView
-                                android:id="@+id/pokemon_evolution1"
+                                android:id="@+id/pokemon_evolution1_img"
                                 android:visibility="invisible"
-                                android:layout_width="80dp"
-                                android:layout_height="80dp" />
+                                android:layout_width="50dp"
+                                android:layout_height="50dp" />
 
                         <TextView
                                 android:id="@+id/pokemon_evolution1_name"
                                 android:visibility="invisible"
+                                android:gravity="center_horizontal"
+                                android:textAlignment="center"
                                 android:layout_width="wrap_content"
                                 android:layout_height="wrap_content"
-                                android:text="Charmander" />
+                                android:text="base pokemon" />
 
                     </LinearLayout>
 
                     <LinearLayout
+                            android:id="@+id/pokemon_evolution2"
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:orientation="vertical"
-                            android:layout_marginEnd="20dp"
-                            style="">
+                            android:gravity="center"
+                            android:layout_weight="1">
 
                         <ImageView
-                                android:id="@+id/pokemon_evolution2"
+                                android:id="@+id/pokemon_evolution2_img"
                                 android:visibility="invisible"
-                                android:layout_width="80dp"
-                                android:layout_height="80dp"
-                                android:layout_weight="1" />
+                                android:layout_width="50dp"
+                                android:layout_height="50dp" />
 
                         <TextView
                                 android:id="@+id/pokemon_evolution2_name"
                                 android:visibility="invisible"
+                                android:gravity="center_horizontal"
+                                android:textAlignment="center"
                                 android:layout_width="wrap_content"
                                 android:layout_height="wrap_content"
-                                android:text="Charmeleon" />
+                                android:text="1st evolution" />
 
                     </LinearLayout>
 
                     <LinearLayout
+                            android:id="@+id/pokemon_evolution3"
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:orientation="vertical"
-                            android:layout_marginEnd="20dp">
+                            android:gravity="center"
+                            android:layout_weight="1">
 
                         <ImageView
-                                android:id="@+id/pokemon_evolution3"
+                                android:id="@+id/pokemon_evolution3_img"
                                 android:visibility="invisible"
-                                android:layout_width="80dp"
-                                android:layout_height="80dp"
-                                android:layout_weight="1" />
+                                android:layout_width="50dp"
+                                android:layout_height="50dp" />
 
                         <TextView
                                 android:id="@+id/pokemon_evolution3_name"
                                 android:visibility="invisible"
+                                android:gravity="center_horizontal"
+                                android:textAlignment="center"
                                 android:layout_width="wrap_content"
                                 android:layout_height="wrap_content"
-                                android:text="Charizard" />
+                                android:text="2nd evolution" />
+
+                    </LinearLayout>
+
+                    <LinearLayout
+                            android:id="@+id/pokemon_evolution4"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:orientation="vertical"
+                            android:gravity="center"
+                            android:layout_weight="1">
+
+                        <ImageView
+                                android:id="@+id/pokemon_evolution4_img"
+                                android:visibility="invisible"
+                                android:layout_width="50dp"
+                                android:layout_height="50dp" />
+
+                        <TextView
+                                android:id="@+id/pokemon_evolution4_name"
+                                android:visibility="invisible"
+                                android:gravity="center_horizontal"
+                                android:textAlignment="center"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="3rd evolution" />
 
                     </LinearLayout>
 
