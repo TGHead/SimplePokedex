@@ -2340,7 +2340,7 @@
       {
         "id": 82,
         "name": "magneton"
-      },
+      }
 //      {
 //        "id": 462,
 //        "name": "magnezone"
@@ -2371,7 +2371,7 @@
       {
         "id": 82,
         "name": "magneton"
-      },
+      }
 //      {
 //        "id": 462,
 //        "name": "magnezone"
@@ -2703,6 +2703,1456 @@
       {
         "id": 94,
         "name": "gengar"
+      }
+    ]
+  },
+  {
+    "id": 95,
+    "name": "Onix",
+    "height": "28′10\"",
+    "weight": 463.0,
+    "types": [
+      "ground",
+      "rock"
+    ],
+    "description": "Onix has a magnet in its brain. It acts as a compass so that this Pokémon does not lose direction while it is tunneling. As it grows older, its body becomes increasingly rounder and smoother.",
+    "hp": 35,
+    "attack": 45,
+    "defense": 160,
+    "special_attack": 30,
+    "special_defense": 45,
+    "speed": 70,
+    "evolutions": [
+      {
+        "id": 95,
+        "name": "onix"
+      }
+    ]
+  },
+  {
+    "id": 96,
+    "name": "Drowzee",
+    "height": "3' 03\"",
+    "weight": 71.4,
+    "types": [
+      "psychic"
+    ],
+    "description": "If your nose becomes itchy while you are sleeping, it's a sure sign that one of these Pokémon is standing above your pillow and trying to eat your dream through your nostrils.",
+    "hp": 60,
+    "attack": 48,
+    "defense": 45,
+    "special_attack": 43,
+    "special_defense": 90,
+    "speed": 42,
+    "evolutions": [
+      {
+        "id": 96,
+        "name": "drowzee"
+      },
+      {
+        "id": 97,
+        "name": "hypno"
+      }
+    ]
+  },
+  {
+    "id": 97,
+    "name": "Hypno",
+    "height": "5' 03\"",
+    "weight": 166.7,
+    "types": [
+      "psychic"
+    ],
+    "description": "Hypno holds a pendulum in its hand. The arcing movement and glitter of the pendulum lull the foe into a deep state of hypnosis. While this Pokémon searches for prey, it polishes the pendulum.",
+    "hp": 85,
+    "attack": 73,
+    "defense": 70,
+    "special_attack": 73,
+    "special_defense": 115,
+    "speed": 67,
+    "evolutions": [
+      {
+        "id": 96,
+        "name": "drowzee"
+      },
+      {
+        "id": 97,
+        "name": "hypno"
+      }
+    ]
+  },
+  {
+    "id": 98,
+    "name": "Krabby",
+    "height": "1' 04\"",
+    "weight": 14.3,
+    "types": [
+      "water"
+    ],
+    "description": "Krabby live on beaches, burrowed inside holes dug into the sand. On sandy beaches with little in the way of food, these Pokémon can be seen squabbling with each other over territory.",
+    "hp": 30,
+    "attack": 105,
+    "defense": 90,
+    "special_attack": 25,
+    "special_defense": 25,
+    "speed": 50,
+    "evolutions": [
+      {
+        "id": 98,
+        "name": "krabby"
+      },
+      {
+        "id": 99,
+        "name": "kingler"
+      }
+    ]
+  },
+  {
+    "id": 99,
+    "name": "Kingler",
+    "height": "4' 03\"",
+    "weight": 132.3,
+    "types": [
+      "water"
+    ],
+    "description": "Kingler has an enormous, oversized claw. It waves this huge claw in the air to communicate with others. However, because the claw is so heavy, the Pokémon quickly tires.",
+    "hp": 55,
+    "attack": 130,
+    "defense": 115,
+    "special_attack": 50,
+    "special_defense": 50,
+    "speed": 75,
+    "evolutions": [
+      {
+        "id": 98,
+        "name": "krabby"
+      },
+      {
+        "id": 99,
+        "name": "kingler"
+      }
+    ]
+  },
+  {
+    "id": 100,
+    "name": "Voltorb",
+    "height": "1' 08\"",
+    "weight": 22.9,
+    "types": [
+      "electric"
+    ],
+    "description": "Voltorb was first sighted at a company that manufactures Poké Balls. The link between that sighting and the fact that this Pokémon looks very similar to a Poké Ball remains a mystery.",
+    "hp": 40,
+    "attack": 30,
+    "defense": 50,
+    "special_attack": 55,
+    "special_defense": 55,
+    "speed": 100,
+    "evolutions": [
+      {
+        "id": 100,
+        "name": "voltorb"
+      },
+      {
+        "id": 101,
+        "name": "electrode"
+      }
+    ]
+  },
+  {
+    "id": 101,
+    "name": "Electrode",
+    "height": "3' 11\"",
+    "weight": 146.8,
+    "types": [
+      "electric"
+    ],
+    "description": "Electrode eats electricity in the atmosphere. On days when lightning strikes, you can see this Pokémon exploding all over the place from eating too much electricity.",
+    "hp": 60,
+    "attack": 50,
+    "defense": 70,
+    "special_attack": 80,
+    "special_defense": 80,
+    "speed": 150,
+    "evolutions": [
+      {
+        "id": 100,
+        "name": "voltorb"
+      },
+      {
+        "id": 101,
+        "name": "electrode"
+      }
+    ]
+  },
+  {
+    "id": 102,
+    "name": "Exeggcute",
+    "height": "1' 04\"",
+    "weight": 5.5,
+    "types": [
+      "grass",
+      "psychic"
+    ],
+    "description": "This Pokémon consists of six eggs that form a closely knit cluster. The six eggs attract each other and spin around. When cracks increasingly appear on the eggs, Exeggcute is close to evolution.",
+    "hp": 60,
+    "attack": 40,
+    "defense": 80,
+    "special_attack": 60,
+    "special_defense": 45,
+    "speed": 40,
+    "evolutions": [
+      {
+        "id": 102,
+        "name": "exeggcute"
+      },
+      {
+        "id": 103,
+        "name": "exeggutor"
+      }
+    ]
+  },
+  {
+    "id": 103,
+    "name": "Exeggutor",
+    "height": "6' 07\"",
+    "weight": 264.6,
+    "types": [
+      "grass",
+      "psychic"
+    ],
+    "description": "Exeggutor originally came from the tropics. Its heads steadily grow larger from exposure to strong sunlight. It is said that when the heads fall off, they group together to form Exeggcute.",
+    "hp": 95,
+    "attack": 95,
+    "defense": 85,
+    "special_attack": 125,
+    "special_defense": 75,
+    "speed": 55,
+    "evolutions": [
+      {
+        "id": 102,
+        "name": "exeggcute"
+      },
+      {
+        "id": 103,
+        "name": "exeggutor"
+      }
+    ]
+  },
+  {
+    "id": 104,
+    "name": "Cubone",
+    "height": "1' 04\"",
+    "weight": 14.3,
+    "types": [
+      "ground"
+    ],
+    "description": "Cubone pines for the mother it will never see again. Seeing a likeness of its mother in the full moon, it cries. The stains on the skull the Pokémon wears are made by the tears it sheds.",
+    "hp": 50,
+    "attack": 50,
+    "defense": 95,
+    "special_attack": 40,
+    "special_defense": 50,
+    "speed": 35,
+    "evolutions": [
+      {
+        "id": 104,
+        "name": "cubone"
+      },
+      {
+        "id": 105,
+        "name": "marowak"
+      }
+    ]
+  },
+  {
+    "id": 105,
+    "name": "Marowak",
+    "height": "3' 03\"",
+    "weight": 99.2,
+    "types": [
+      "ground"
+    ],
+    "description": "Marowak is the evolved form of a Cubone that has overcome its sadness at the loss of its mother and grown tough. This Pokémon's tempered and hardened spirit is not easily broken.",
+    "hp": 60,
+    "attack": 80,
+    "defense": 110,
+    "special_attack": 50,
+    "special_defense": 80,
+    "speed": 45,
+    "evolutions": [
+      {
+        "id": 104,
+        "name": "cubone"
+      },
+      {
+        "id": 105,
+        "name": "marowak"
+      }
+    ]
+  },
+  {
+    "id": 106,
+    "name": "Hitmonlee",
+    "height": "4' 11\"",
+    "weight": 109.8,
+    "types": [
+      "fighting"
+    ],
+    "description": "Hitmonlee's legs freely contract and stretch. Using these springlike legs, it bowls over foes with devastating kicks. After battle, it rubs down its legs and loosens the muscles to overcome fatigue.",
+    "hp": 50,
+    "attack": 120,
+    "defense": 53,
+    "special_attack": 35,
+    "special_defense": 110,
+    "speed": 87,
+    "evolutions": [
+      {
+        "id": 106,
+        "name": "hitmonlee"
+      }
+    ]
+  },
+  {
+    "id": 107,
+    "name": "Hitmonchan",
+    "height": "4' 07\"",
+    "weight": 110.7,
+    "types": [
+      "fighting"
+    ],
+    "description": "Hitmonchan is said to possess the spirit of a boxer who had been working toward a world championship. This Pokémon has an indomitable spirit and will never give up in the face of adversity.",
+    "hp": 50,
+    "attack": 105,
+    "defense": 79,
+    "special_attack": 35,
+    "special_defense": 110,
+    "speed": 76,
+    "evolutions": [
+      {
+        "id": 107,
+        "name": "hitmonchan"
+      }
+    ]
+  },
+  {
+    "id": 108,
+    "name": "Lickitung",
+    "height": "3' 11\"",
+    "weight": 144.4,
+    "types": [
+      "normal"
+    ],
+    "description": "Whenever Lickitung comes across something new, it will unfailingly give it a lick. It does so because it memorizes things by texture and by taste. It is somewhat put off by sour things.",
+    "hp": 90,
+    "attack": 55,
+    "defense": 75,
+    "special_attack": 60,
+    "special_defense": 75,
+    "speed": 30,
+    "evolutions": [
+      {
+        "id": 108,
+        "name": "lickitung"
+      }
+    ]
+  },
+  {
+    "id": 109,
+    "name": "Koffing",
+    "height": "2' 00\"",
+    "weight": 2.2,
+    "types": [
+      "poison"
+    ],
+    "description": "If Koffing becomes agitated, it raises the toxicity of its internal gases and jets them out from all over its body. This Pokémon may also overinflate its round body, then explode.",
+    "hp": 40,
+    "attack": 65,
+    "defense": 95,
+    "special_attack": 60,
+    "special_defense": 45,
+    "speed": 35,
+    "evolutions": [
+      {
+        "id": 109,
+        "name": "koffing"
+      },
+      {
+        "id": 110,
+        "name": "weezing"
+      }
+    ]
+  },
+  {
+    "id": 110,
+    "name": "Weezing",
+    "height": "3' 11\"",
+    "weight": 20.9,
+    "types": [
+      "poison"
+    ],
+    "description": "Weezing loves the gases given off by rotted kitchen garbage. This Pokémon will find a dirty, unkempt house and make it its home. At night, when the people in the house are asleep, it will go through the trash.",
+    "hp": 65,
+    "attack": 90,
+    "defense": 120,
+    "special_attack": 85,
+    "special_defense": 70,
+    "speed": 60,
+    "evolutions": [
+      {
+        "id": 109,
+        "name": "koffing"
+      },
+      {
+        "id": 110,
+        "name": "weezing"
+      }
+    ]
+  },
+  {
+    "id": 111,
+    "name": "Rhyhorn",
+    "height": "3' 03\"",
+    "weight": 253.5,
+    "types": [
+      "ground",
+      "rock"
+    ],
+    "description": "Rhyhorn runs in a straight line, smashing everything in its path. It is not bothered even if it rushes headlong into a block of steel. This Pokémon may feel some pain from the collision the next day, however.",
+    "hp": 80,
+    "attack": 85,
+    "defense": 95,
+    "special_attack": 30,
+    "special_defense": 30,
+    "speed": 25,
+    "evolutions": [
+      {
+        "id": 111,
+        "name": "rhyhorn"
+      },
+      {
+        "id": 112,
+        "name": "rhydon"
+      }
+    ]
+  },
+  {
+    "id": 112,
+    "name": "Rhydon",
+    "height": "6' 03\"",
+    "weight": 264.6,
+    "types": [
+      "ground",
+      "rock"
+    ],
+    "description": "Rhydon's horn can crush even uncut diamonds. One sweeping blow of its tail can topple a building. This Pokémon's hide is extremely tough. Even direct cannon hits don't leave a scratch.",
+    "hp": 105,
+    "attack": 130,
+    "defense": 120,
+    "special_attack": 45,
+    "special_defense": 45,
+    "speed": 40,
+    "evolutions": [
+      {
+        "id": 111,
+        "name": "rhyhorn"
+      },
+      {
+        "id": 112,
+        "name": "rhydon"
+      }
+    ]
+  },
+  {
+    "id": 113,
+    "name": "Chansey",
+    "height": "3' 07\"",
+    "weight": 76.3,
+    "types": [
+      "normal"
+    ],
+    "description": "Chansey lays nutritionally excellent eggs on an everyday basis. The eggs are so delicious, they are easily and eagerly devoured by even those people who have lost their appetite.",
+    "hp": 250,
+    "attack": 5,
+    "defense": 5,
+    "special_attack": 35,
+    "special_defense": 105,
+    "speed": 50,
+    "evolutions": [
+      {
+        "id": 113,
+        "name": "chansey"
+      }
+    ]
+  },
+  {
+    "id": 114,
+    "name": "Tangela",
+    "height": "3' 03\"",
+    "weight": 77.2,
+    "types": [
+      "grass"
+    ],
+    "description": "Tangela's vines snap off easily if they are grabbed. This happens without pain, allowing it to make a quick getaway. The lost vines are replaced by newly grown vines the very next day.",
+    "hp": 65,
+    "attack": 55,
+    "defense": 115,
+    "special_attack": 100,
+    "special_defense": 40,
+    "speed": 60,
+    "evolutions": [
+      {
+        "id": 114,
+        "name": "tangela"
+      }
+    ]
+  },
+  {
+    "id": 115,
+    "name": "Kangaskhan",
+    "height": "7' 03\"",
+    "weight": 176.4,
+    "types": [
+      "normal"
+    ],
+    "description": "If you come across a young Kangaskhan playing by itself, you must never disturb it or attempt to catch it. The baby Pokémon's parent is sure to be in the area, and it will become violently enraged at you.",
+    "hp": 105,
+    "attack": 95,
+    "defense": 80,
+    "special_attack": 40,
+    "special_defense": 80,
+    "speed": 90,
+    "evolutions": [
+      {
+        "id": 115,
+        "name": "kangaskhan"
+      }
+    ]
+  },
+  {
+    "id": 116,
+    "name": "Horsea",
+    "height": "1' 04\"",
+    "weight": 17.6,
+    "types": [
+      "water"
+    ],
+    "description": "Horsea eats small insects and moss off of rocks. If the ocean current turns fast, this Pokémon anchors itself by wrapping its tail around rocks or coral to prevent being washed away.",
+    "hp": 30,
+    "attack": 40,
+    "defense": 70,
+    "special_attack": 70,
+    "special_defense": 25,
+    "speed": 60,
+    "evolutions": [
+      {
+        "id": 116,
+        "name": "horsea"
+      },
+      {
+        "id": 117,
+        "name": "seadra"
+      }
+    ]
+  },
+  {
+    "id": 117,
+    "name": "Seadra",
+    "height": "3' 11\"",
+    "weight": 55.1,
+    "types": [
+      "water"
+    ],
+    "description": "Seadra sleeps after wriggling itself between the branches of coral. Those trying to harvest coral are occasionally stung by this Pokémon's poison barbs if they fail to notice it.",
+    "hp": 55,
+    "attack": 65,
+    "defense": 95,
+    "special_attack": 95,
+    "special_defense": 45,
+    "speed": 85,
+    "evolutions": [
+      {
+        "id": 116,
+        "name": "horsea"
+      },
+      {
+        "id": 117,
+        "name": "seadra"
+      }
+    ]
+  },
+  {
+    "id": 118,
+    "name": "Goldeen",
+    "height": "2' 00\"",
+    "weight": 33.1,
+    "types": [
+      "water"
+    ],
+    "description": "Goldeen is a very beautiful Pokémon with fins that billow elegantly in water. However, don't let your guard down around this Pokémon—it could ram you powerfully with its horn.",
+    "hp": 45,
+    "attack": 67,
+    "defense": 60,
+    "special_attack": 35,
+    "special_defense": 50,
+    "speed": 63,
+    "evolutions": [
+      {
+        "id": 118,
+        "name": "goldeen"
+      },
+      {
+        "id": 119,
+        "name": "seaking"
+      }
+    ]
+  },
+  {
+    "id": 119,
+    "name": "Seaking",
+    "height": "4' 03\"",
+    "weight": 86.0,
+    "types": [
+      "water"
+    ],
+    "description": "In the autumn, Seaking males can be seen performing courtship dances in riverbeds to woo females. During this season, this Pokémon's body coloration is at its most beautiful.",
+    "hp": 80,
+    "attack": 92,
+    "defense": 65,
+    "special_attack": 65,
+    "special_defense": 80,
+    "speed": 68,
+    "evolutions": [
+      {
+        "id": 118,
+        "name": "goldeen"
+      },
+      {
+        "id": 119,
+        "name": "seaking"
+      }
+    ]
+  },
+  {
+    "id": 120,
+    "name": "Staryu",
+    "height": "2' 07\"",
+    "weight": 76.1,
+    "types": [
+      "water"
+    ],
+    "description": "Staryu's center section has an organ called the core that shines bright red. If you go to a beach toward the end of summer, the glowing cores of these Pokémon look like the stars in the sky.",
+    "hp": 30,
+    "attack": 45,
+    "defense": 55,
+    "special_attack": 70,
+    "special_defense": 55,
+    "speed": 85,
+    "evolutions": [
+      {
+        "id": 120,
+        "name": "staryu"
+      },
+      {
+        "id": 121,
+        "name": "starmie"
+      }
+    ]
+  },
+  {
+    "id": 121,
+    "name": "Starmie",
+    "height": "3' 07\"",
+    "weight": 176.4,
+    "types": [
+      "water",
+      "psychic"
+    ],
+    "description": "Starmie's center section—the core—glows brightly in seven colors. Because of its luminous nature, this Pokémon has been given the nickname \"the gem of the sea.\"",
+    "hp": 60,
+    "attack": 75,
+    "defense": 85,
+    "special_attack": 100,
+    "special_defense": 85,
+    "speed": 115,
+    "evolutions": [
+      {
+        "id": 120,
+        "name": "staryu"
+      },
+      {
+        "id": 121,
+        "name": "starmie"
+      }
+    ]
+  },
+  {
+    "id": 122,
+    "name": "Mr. Mime",
+    "height": "4' 03\"",
+    "weight": 120.1,
+    "types": [
+      "psychic",
+      "fairy"
+    ],
+    "description": "Mr. Mime is a master of pantomime. Its gestures and motions convince watchers that something unseeable actually exists. Once the watchers are convinced, the unseeable thing exists as if it were real.",
+    "hp": 40,
+    "attack": 45,
+    "defense": 65,
+    "special_attack": 100,
+    "special_defense": 120,
+    "speed": 90,
+    "evolutions": [
+      {
+        "id": 122,
+        "name": "Mr. Mime"
+      }
+    ]
+  },
+  {
+    "id": 123,
+    "name": "Scyther",
+    "height": "4' 11\"",
+    "weight": 123.5,
+    "types": [
+      "bug",
+      "flying"
+    ],
+    "description": "Scyther is blindingly fast. Its blazing speed enhances the effectiveness of the twin scythes on its forearms. This Pokémon's scythes are so effective, they can slice through thick logs in one wicked stroke.",
+    "hp": 70,
+    "attack": 110,
+    "defense": 80,
+    "special_attack": 55,
+    "special_defense": 80,
+    "speed": 105,
+    "evolutions": [
+      {
+        "id": 123,
+        "name": "scyther"
+      }
+    ]
+  },
+  {
+    "id": 124,
+    "name": "Jynx",
+    "height": "4' 07\"",
+    "weight": 89.5,
+    "types": [
+      "ice",
+      "psychic"
+    ],
+    "description": "Jynx walks rhythmically, swaying and shaking its hips as if it were dancing. Its motions are so bouncingly alluring, people seeing it are compelled to shake their hips without giving any thought to what they are doing.",
+    "hp": 65,
+    "attack": 50,
+    "defense": 35,
+    "special_attack": 115,
+    "special_defense": 95,
+    "speed": 95,
+    "evolutions": [
+      {
+        "id": 124,
+        "name": "jynx"
+      }
+    ]
+  },
+  {
+    "id": 125,
+    "name": "Electabuzz",
+    "height": "3' 07\"",
+    "weight": 66.1,
+    "types": [
+      "electric"
+    ],
+    "description": "When a storm arrives, gangs of this Pokémon compete with each other to scale heights that are likely to be stricken by lightning bolts. Some towns use Electabuzz in place of lightning rods.",
+    "hp": 65,
+    "attack": 83,
+    "defense": 57,
+    "special_attack": 95,
+    "special_defense": 85,
+    "speed": 105,
+    "evolutions": [
+      {
+        "id": 125,
+        "name": "electabuzz"
+      }
+    ]
+  },
+  {
+    "id": 126,
+    "name": "Magmar",
+    "height": "4' 03\"",
+    "weight": 98.1,
+    "types": [
+      "fire"
+    ],
+    "description": "In battle, Magmar blows out intensely hot flames from all over its body to intimidate its opponent. This Pokémon's fiery bursts create heat waves that ignite grass and trees in its surroundings.",
+    "hp": 65,
+    "attack": 95,
+    "defense": 57,
+    "special_attack": 100,
+    "special_defense": 85,
+    "speed": 93,
+    "evolutions": [
+      {
+        "id": 126,
+        "name": "magmar"
+      }
+    ]
+  },
+  {
+    "id": 127,
+    "name": "Pinsir",
+    "height": "4' 11\"",
+    "weight": 121.3,
+    "types": [
+      "bug"
+    ],
+    "description": "Pinsir is astoundingly strong. It can grip a foe weighing twice its weight in its horns and easily lift it. This Pokémon's movements turn sluggish in cold places.",
+    "hp": 65,
+    "attack": 125,
+    "defense": 100,
+    "special_attack": 55,
+    "special_defense": 70,
+    "speed": 85,
+    "evolutions": [
+      {
+        "id": 127,
+        "name": "pinsir"
+      }
+    ]
+  },
+  {
+    "id": 128,
+    "name": "Tauros",
+    "height": "4' 07\"",
+    "weight": 194.9,
+    "types": [
+      "normal"
+    ],
+    "description": "This Pokémon is not satisfied unless it is rampaging at all times. If there is no opponent for Tauros to battle, it will charge at thick trees and knock them down to calm itself.",
+    "hp": 75,
+    "attack": 100,
+    "defense": 95,
+    "special_attack": 40,
+    "special_defense": 70,
+    "speed": 110,
+    "evolutions": [
+      {
+        "id": 128,
+        "name": "tauros"
+      }
+    ]
+  },
+  {
+    "id": 129,
+    "name": "Magikarp",
+    "height": "2' 11\"",
+    "weight": 22.0,
+    "types": [
+      "water"
+    ],
+    "description": "Magikarp is a pathetic excuse for a Pokémon that is only capable of flopping and splashing. This behavior prompted scientists to undertake research into it.",
+    "hp": 20,
+    "attack": 10,
+    "defense": 55,
+    "special_attack": 15,
+    "special_defense": 20,
+    "speed": 80,
+    "evolutions": [
+      {
+        "id": 129,
+        "name": "magikarp"
+      },
+      {
+        "id": 130,
+        "name": "gyarados"
+      }
+    ]
+  },
+  {
+    "id": 130,
+    "name": "Gyarados",
+    "height": "21' 04\"",
+    "weight": 518.1,
+    "types": [
+      "water",
+      "flying"
+    ],
+    "description": "When Magikarp evolves into Gyarados, its brain cells undergo a structural transformation. It is said that this transformation is to blame for this Pokémon's wildly violent nature.",
+    "hp": 95,
+    "attack": 125,
+    "defense": 79,
+    "special_attack": 60,
+    "special_defense": 100,
+    "speed": 81,
+    "evolutions": [
+      {
+        "id": 129,
+        "name": "magikarp"
+      },
+      {
+        "id": 130,
+        "name": "gyarados"
+      }
+    ]
+  },
+  {
+    "id": 131,
+    "name": "Lapras",
+    "height": "8' 02\"",
+    "weight": 485.0,
+    "types": [
+      "water",
+      "ice"
+    ],
+    "description": "People have driven Lapras almost to the point of extinction. In the evenings, this Pokémon is said to sing plaintively as it seeks what few others of its kind still remain.",
+    "hp": 130,
+    "attack": 85,
+    "defense": 80,
+    "special_attack": 85,
+    "special_defense": 95,
+    "speed": 60,
+    "evolutions": [
+      {
+        "id": 131,
+        "name": "lapras"
+      }
+    ]
+  },
+  {
+    "id": 132,
+    "name": "Ditto",
+    "height": "1' 00\"",
+    "weight": 8.8,
+    "types": [
+      "normal"
+    ],
+    "description": "Ditto rearranges its cell structure to transform itself into other shapes. However, if it tries to transform itself into something by relying on its memory, this Pokémon manages to get details wrong.",
+    "hp": 48,
+    "attack": 48,
+    "defense": 48,
+    "special_attack": 48,
+    "special_defense": 48,
+    "speed": 48,
+    "evolutions": [
+      {
+        "id": 132,
+        "name": "ditto"
+      }
+    ]
+  },
+  {
+    "id": 133,
+    "name": "Eevee",
+    "height": "1' 00\"",
+    "weight": 14.3,
+    "types": [
+      "normal"
+    ],
+    "description": "Eevee has an unstable genetic makeup that suddenly mutates due to the environment in which it lives. Radiation from various stones causes this Pokémon to evolve.",
+    "hp": 55,
+    "attack": 55,
+    "defense": 50,
+    "special_attack": 45,
+    "special_defense": 65,
+    "speed": 55,
+    "evolutions": [
+      {
+        "id": 133,
+        "name": "eevee"
+      },
+      {
+        "id": 134,
+        "name": "vaporeon"
+      },
+      {
+        "id": 135,
+        "name": "jolteon"
+      },
+      {
+        "id": 136,
+        "name": "flareon"
+      }
+    ]
+  },
+  {
+    "id": 134,
+    "name": "Vaporeon",
+    "height": "3' 03\"",
+    "weight": 63.9,
+    "types": [
+      "water"
+    ],
+    "description": "Vaporeon underwent a spontaneous mutation and grew fins and gills that allow it to live underwater. This Pokémon has the ability to freely control water.",
+    "hp": 130,
+    "attack": 65,
+    "defense": 60,
+    "special_attack": 115,
+    "special_defense": 95,
+    "speed": 65,
+    "evolutions": [
+      {
+        "id": 133,
+        "name": "eevee"
+      },
+      {
+        "id": 134,
+        "name": "vaporeon"
+      },
+      {
+        "id": 135,
+        "name": "jolteon"
+      },
+      {
+        "id": 136,
+        "name": "flareon"
+      }
+    ]
+  },
+  {
+    "id": 135,
+    "name": "Jolteon",
+    "height": "2' 07\"",
+    "weight": 54.0,
+    "types": [
+      "electric"
+    ],
+    "description": "Jolteon's cells generate a low level of electricity. This power is amplified by the static electricity of its fur, enabling the Pokémon to drop thunderbolts. The bristling fur is made of electrically charged needles.",
+    "hp": 65,
+    "attack": 65,
+    "defense": 60,
+    "special_attack": 110,
+    "special_defense": 95,
+    "speed": 130,
+    "evolutions": [
+      {
+        "id": 133,
+        "name": "eevee"
+      },
+      {
+        "id": 134,
+        "name": "vaporeon"
+      },
+      {
+        "id": 135,
+        "name": "jolteon"
+      },
+      {
+        "id": 136,
+        "name": "flareon"
+      }
+    ]
+  },
+  {
+    "id": 136,
+    "name": "Flareon",
+    "height": "2' 11\"",
+    "weight": 55.1,
+    "types": [
+      "fire"
+    ],
+    "description": "Flareon's fluffy fur has a functional purpose—it releases heat into the air so that its body does not get excessively hot. This Pokémon's body temperature can rise to a maximum of 1,650 degrees Fahrenheit.",
+    "hp": 65,
+    "attack": 130,
+    "defense": 60,
+    "special_attack": 95,
+    "special_defense": 110,
+    "speed": 65,
+    "evolutions": [
+      {
+        "id": 133,
+        "name": "eevee"
+      },
+      {
+        "id": 134,
+        "name": "vaporeon"
+      },
+      {
+        "id": 135,
+        "name": "jolteon"
+      },
+      {
+        "id": 136,
+        "name": "flareon"
+      }
+    ]
+  },
+  {
+    "id": 137,
+    "name": "Porygon",
+    "height": "2' 07\"",
+    "weight": 80.5,
+    "types": [
+      "normal"
+    ],
+    "description": "Porygon is capable of reverting itself entirely back to program data and entering cyberspace. This Pokémon is copy protected so it cannot be duplicated by copying.",
+    "hp": 65,
+    "attack": 60,
+    "defense": 70,
+    "special_attack": 85,
+    "special_defense": 75,
+    "speed": 40,
+    "evolutions": [
+      {
+        "id": 137,
+        "name": "porygon"
+      }
+    ]
+  },
+  {
+    "id": 138,
+    "name": "Omanyte",
+    "height": "1' 04\"",
+    "weight": 16.5,
+    "types": [
+      "rock",
+      "water"
+    ],
+    "description": "Omanyte is one of the ancient and long-since-extinct Pokémon that have been regenerated from fossils by people. If attacked by an enemy, it withdraws itself inside its hard shell.",
+    "hp": 35,
+    "attack": 40,
+    "defense": 100,
+    "special_attack": 90,
+    "special_defense": 55,
+    "speed": 35,
+    "evolutions": [
+      {
+        "id": 138,
+        "name": "omanyte"
+      },
+      {
+        "id": 139,
+        "name": "omastar"
+      }
+    ]
+  },
+  {
+    "id": 139,
+    "name": "Omastar",
+    "height": "3' 03\"",
+    "weight": 77.2,
+    "types": [
+      "rock",
+      "water"
+    ],
+    "description": "Omastar uses its tentacles to capture its prey. It is believed to have become extinct because its shell grew too large and heavy, causing its movements to become too slow and ponderous.",
+    "hp": 70,
+    "attack": 60,
+    "defense": 125,
+    "special_attack": 115,
+    "special_defense": 70,
+    "speed": 55,
+    "evolutions": [
+      {
+        "id": 138,
+        "name": "omanyte"
+      },
+      {
+        "id": 139,
+        "name": "omastar"
+      }
+    ]
+  },
+  {
+    "id": 140,
+    "name": "Kabuto",
+    "height": "1' 08\"",
+    "weight": 25.4,
+    "types": [
+      "rock",
+      "water"
+    ],
+    "description": "Kabuto is a Pokémon that has been regenerated from a fossil. However, in extremely rare cases, living examples have been discovered. The Pokémon has not changed at all for 300 million years.",
+    "hp": 30,
+    "attack": 80,
+    "defense": 90,
+    "special_attack": 55,
+    "special_defense": 45,
+    "speed": 55,
+    "evolutions": [
+      {
+        "id": 140,
+        "name": "kabuto"
+      },
+      {
+        "id": 141,
+        "name": "kabutops"
+      }
+    ]
+  },
+  {
+    "id": 141,
+    "name": "Kabutops",
+    "height": "4' 03\"",
+    "weight": 89.3,
+    "types": [
+      "rock",
+      "water"
+    ],
+    "description": "Kabutops swam underwater to hunt for its prey in ancient times. The Pokémon was apparently evolving from being a water dweller to living on land as evident from the beginnings of change in its gills and legs.",
+    "hp": 60,
+    "attack": 115,
+    "defense": 105,
+    "special_attack": 65,
+    "special_defense": 70,
+    "speed": 80,
+    "evolutions": [
+      {
+        "id": 140,
+        "name": "kabuto"
+      },
+      {
+        "id": 141,
+        "name": "kabutops"
+      }
+    ]
+  },
+  {
+    "id": 142,
+    "name": "Aerodactyl",
+    "height": "5' 11\"",
+    "weight": 130.1,
+    "types": [
+      "rock",
+      "flying"
+    ],
+    "description": "Aerodactyl is a Pokémon from the age of dinosaurs. It was regenerated from genetic material extracted from amber. It is imagined to have been the king of the skies in ancient times.",
+    "hp": 80,
+    "attack": 105,
+    "defense": 65,
+    "special_attack": 60,
+    "special_defense": 75,
+    "speed": 130,
+    "evolutions": [
+      {
+        "id": 142,
+        "name": "aerodactyl"
+      }
+    ]
+  },
+  {
+    "id": 143,
+    "name": "Snorlax",
+    "height": "6' 11\"",
+    "weight": 1014.1,
+    "types": [
+      "normal"
+    ],
+    "description": "Snorlax's typical day consists of nothing more than eating and sleeping. It is such a docile Pokémon that there are children who use its expansive belly as a place to play.",
+    "hp": 160,
+    "attack": 110,
+    "defense": 65,
+    "special_attack": 65,
+    "special_defense": 110,
+    "speed": 30,
+    "evolutions": [
+      {
+        "id": 143,
+        "name": "snorlax"
+      }
+    ]
+  },
+  {
+    "id": 144,
+    "name": "Articuno",
+    "height": "5' 07\"",
+    "weight": 122.1,
+    "types": [
+      "ice",
+      "flying"
+    ],
+    "description": "Articuno is a legendary bird Pokémon that can control ice. The flapping of its wings chills the air. As a result, it is said that when this Pokémon flies, snow will fall.",
+    "hp": 90,
+    "attack": 85,
+    "defense": 100,
+    "special_attack": 95,
+    "special_defense": 125,
+    "speed": 85,
+    "evolutions": [
+      {
+        "id": 144,
+        "name": "articuno"
+      }
+    ]
+  },
+  {
+    "id": 145,
+    "name": "Zapdos",
+    "height": "5' 03\"",
+    "weight": 116.0,
+    "types": [
+      "electric",
+      "flying"
+    ],
+    "description": "Zapdos is a legendary bird Pokémon that has the ability to control electricity. It usually lives in thunderclouds. The Pokémon gains power if it is stricken by lightning bolts.",
+    "hp": 90,
+    "attack": 90,
+    "defense": 85,
+    "special_attack": 125,
+    "special_defense": 90,
+    "speed": 100,
+    "evolutions": [
+      {
+        "id": 145,
+        "name": "zapdos"
+      }
+    ]
+  },
+  {
+    "id": 146,
+    "name": "Moltres",
+    "height": "6' 07\"",
+    "weight": 132.3,
+    "types": [
+      "fire",
+      "flying"
+    ],
+    "description": "Moltres is a legendary bird Pokémon that has the ability to control fire. If this Pokémon is injured, it is said to dip its body in the molten magma of a volcano to burn and heal itself.",
+    "hp": 90,
+    "attack": 100,
+    "defense": 90,
+    "special_attack": 125,
+    "special_defense": 85,
+    "speed": 90,
+    "evolutions": [
+      {
+        "id": 146,
+        "name": "moltres"
+      }
+    ]
+  },
+  {
+    "id": 147,
+    "name": "Dratini",
+    "height": "5' 11\"",
+    "weight": 7.3,
+    "types": [
+      "dragon"
+    ],
+    "description": "Dratini continually molts and sloughs off its old skin. It does so because the life energy within its body steadily builds to reach uncontrollable levels.",
+    "hp": 41,
+    "attack": 64,
+    "defense": 45,
+    "special_attack": 50,
+    "special_defense": 50,
+    "speed": 50,
+    "evolutions": [
+      {
+        "id": 147,
+        "name": "dratini"
+      },
+      {
+        "id": 148,
+        "name": "dragonair"
+      },
+      {
+        "id": 149,
+        "name": "dragonite"
+      }
+    ]
+  },
+  {
+    "id": 148,
+    "name": "Dragonair",
+    "height": "13' 01\"",
+    "weight": 36.4,
+    "types": [
+      "dragon"
+    ],
+    "description": "Dragonair stores an enormous amount of energy inside its body. It is said to alter weather conditions in its vicinity by discharging energy from the crystals on its neck and tail.",
+    "hp": 61,
+    "attack": 84,
+    "defense": 65,
+    "special_attack": 70,
+    "special_defense": 70,
+    "speed": 70,
+    "evolutions": [
+      {
+        "id": 147,
+        "name": "dratini"
+      },
+      {
+        "id": 148,
+        "name": "dragonair"
+      },
+      {
+        "id": 149,
+        "name": "dragonite"
+      }
+    ]
+  },
+  {
+    "id": 149,
+    "name": "Dragonite",
+    "height": "7' 03\"",
+    "weight": 463.0,
+    "types": [
+      "dragon",
+      "flying"
+    ],
+    "description": "Dragonite is capable of circling the globe in just 16 hours. It is a kindhearted Pokémon that leads lost and foundering ships in a storm to the safety of land.",
+    "hp": 91,
+    "attack": 134,
+    "defense": 95,
+    "special_attack": 100,
+    "special_defense": 100,
+    "speed": 80,
+    "evolutions": [
+      {
+        "id": 147,
+        "name": "dratini"
+      },
+      {
+        "id": 148,
+        "name": "dragonair"
+      },
+      {
+        "id": 149,
+        "name": "dragonite"
+      }
+    ]
+  },
+  {
+    "id": 150,
+    "name": "Mewtwo",
+    "height": "6' 07\"",
+    "weight": 269.0,
+    "types": [
+      "psychic"
+    ],
+    "description": "Mewtwo is a Pokémon that was created by genetic manipulation. However, even though the scientific power of humans created this Pokémon's body, they failed to endow Mewtwo with a compassionate heart.",
+    "hp": 106,
+    "attack": 110,
+    "defense": 90,
+    "special_attack": 154,
+    "special_defense": 90,
+    "speed": 130,
+    "evolutions": [
+      {
+        "id": 150,
+        "name": "mewtwo"
+      }
+    ]
+  },
+  {
+    "id": 151,
+    "name": "Mew",
+    "height": "1' 04\"",
+    "weight": 8.8,
+    "types": [
+      "psychic"
+    ],
+    "description": "Mew is said to possess the genetic composition of all Pokémon. It is capable of making itself invisible at will, so it entirely avoids notice even if it approaches people.",
+    "hp": 100,
+    "attack": 100,
+    "defense": 100,
+    "special_attack": 100,
+    "special_defense": 100,
+    "speed": 100,
+    "evolutions": [
+      {
+        "id": 151,
+        "name": "mew"
       }
     ]
   }
